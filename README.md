@@ -19,4 +19,4 @@ A list of A11Y resources, links and tools
 ## Tools
 
 - [The Visual ARIA Bookmarklet](http://whatsock.com/training/matrices/visual-aria.htm)
-- [tota11y - An Accessibility Visualization Toolkit]http://khan.github.io/tota11y/
+- [tota11y - An Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
