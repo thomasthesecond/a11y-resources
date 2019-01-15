@@ -115,7 +115,6 @@ A list of A11Y resources, links and tools
 - [We’re making accessibility clearer and easier](https://gds.blog.gov.uk/2017/10/23/were-making-accessibility-clearer-and-easier/)
 - [Accessibility at trivago](https://tech.trivago.com/2017/09/26/accessibility-at-trivago/)
 - [My Accessibility Journey: What I’ve Learned So Far](https://alistapart.com/article/my-accessibility-journey-what-ive-learned-so-far)
-
 - [A DIY Web Accessibility Blueprint](https://alistapart.com/article/diy-web-accessibility-blueprint)
 - [Your Tooltips Are Bogus](http://www.heydonworks.com/article/your-tooltips-are-bogus)
 - [Implementing a reduced-motion mode](https://hugogiraudel.com/2018/03/19/implementing-a-reduced-motion-mode/)
